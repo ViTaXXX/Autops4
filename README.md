@@ -1,4 +1,4 @@
-# Host PS4 9.00 (Completo Modo Manual)
+# Host PS4 9.00
 
 Host test para modificaciones.
 
